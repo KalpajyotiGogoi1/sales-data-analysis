@@ -1,0 +1,8 @@
+product_id,product_name,category,price
+101,Laptop,electronics,1000.0
+102,Headphones,Electronics,200.0
+103,"""Smartphone""",electronics,
+104,TABLET,Electronics,500.0
+104,TABLET,Electronics,500.0
+105,laptop bag,Electronics,50.0
+106,Monitor,Electronics,abc
